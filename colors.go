@@ -405,7 +405,7 @@ func generateColors() {
 
 	ConfigColor = map[string]map[string]string{
 		"dir": {
-			"name": Bold + BgRGBT(0, 0, 2) + FgGray(23),
+			"name": Bold + BgRGBT(0, 1, 2) + FgGray(23),
 		},
 		".dir": {
 			"name": Bold + BgRGBT(0, 0, 1) + FgGray(18),
