@@ -378,7 +378,7 @@ func generateColors() {
 		"rb":      {FgRGB(5, 1, 0), FgRGB(3, 1, 0), true},
 		"rs":      {FgRGB(4, 3, 0), FgRGB(2, 2, 0), true},
 		"scala":   {FgRGB(5, 0, 0), FgRGB(3, 0, 0), true},
-		"sh":      {FgRGB(4, 0, 4), FgRGB(2, 0, 2), true},
+		"sh":      {FgRGB(0, 4, 0), FgRGB(0, 3, 1), true},
 		"sol":     {FgRGB(0, 3, 5), FgRGB(0, 1, 5), true},
 		"sql":     {FgRGB(4, 5, 3), FgRGB(3, 4, 0), true},
 		"svelte":  {FgRGB(5, 2, 0), FgRGB(5, 0, 0), true},
@@ -451,7 +451,7 @@ func generateColors() {
 			"wheel":    FgRGB(3, 0, 0),
 			"staff":    FgRGB(0, 2, 0),
 			"admin":    FgRGB(2, 2, 0),
-			"_default": FgRGB(2, 0, 2),
+			"_default": FgRGB(3, 0, 1),
 		},
 		"other": {
 			"_default": FgGray(15),
